@@ -12,7 +12,7 @@ import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.ChartLocation;
-
+//this is a demo for a git hub
 public class ExtentReport<report> {
 	
 	public static ExtentHtmlReporter htmlreport;
